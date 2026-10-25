@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "markdown-logic": {
+      "type": "http",
+      "url": "https://mcp.markdownlogic.com"
+    }
+  }
+}
