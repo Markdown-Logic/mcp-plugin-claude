@@ -1,11 +1,11 @@
 # Markdown Logic plugins for Claude
 
-Claude plugin packages for [Markdown Logic](https://markdownlogic.com/), version 0.2.0.
+Claude plugin packages for [Markdown Logic](https://markdownlogic.com/), version 0.3.1.
 
 | Plugin | Source | Package ZIP |
 | --- | --- | --- |
-| Markdown Logic Public | [claude-public](claude-public/) | [claude-public-0.2.0.zip](dist/claude-public-0.2.0.zip) |
-| Markdown Logic | [claude-main](claude-main/) | [claude-main-0.2.0.zip](dist/claude-main-0.2.0.zip) |
+| Markdown Logic Public | [claude-public](claude-public/) | [claude-public-0.3.1.zip](dist/claude-public-0.3.1.zip) |
+| Markdown Logic | [claude-main](claude-main/) | [claude-main-0.3.1.zip](dist/claude-main-0.3.1.zip) |
 
 The public plugin converts complete supplied Markdown to PDF, DOCX, HTML or EPUB without an account. The authenticated plugin supports team document workflows through browser OAuth. Each source folder includes its own manifest, remote MCP configuration, Skills, setup documentation, and license notices.
 
@@ -38,3 +38,5 @@ These packages are locally validated. Publication of this repository does not es
 The integration files in this repository are licensed under the [MIT License](LICENSE), with the exclusions in [License scope and notices](LICENSE-SCOPE.md).
 
 Support: support@markdownlogic.com · [Privacy](https://markdownlogic.com/privacy) · [Documentation](https://markdownlogic.com/help/en/connect-an-ai-assistant.html)
+
+This 0.3.1 tree is prepared and unpublished. See [current qualification](RELEASE-0.3.1.md); historical host acceptance does not qualify this artifact.
