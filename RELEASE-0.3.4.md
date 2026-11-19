@@ -1,5 +1,9 @@
 # 0.3.4 prepared package update
 
+## Directory metadata update (19 November 2026)
+
+Both 0.3.4 packages now include `privacyPolicyUrl`: [Markdown Logic Privacy Policy](https://app.markdownlogic.com/privacy). Their manifests retain the supported bundled icon path, `./assets/icon.svg`; the manifest icon value was not changed. This [direct logo URL](https://raw.githubusercontent.com/Markdown-Logic/mcp-plugin-claude/9e4d8085bc0d8fde97793c7105d441be0a8fbc5a/claude-main/assets/icon.svg) is pinned to this repository and was verified to match both bundled icons. The matching ZIPs and checksums were refreshed. Strict local directory validation passed; these metadata updates do not establish directory approval or resubmission.
+
 Adds the distinct authenticated Agent memory skill and synchronizes all existing canonical skills with the released rc.8.9 definitions. Includes version-aware memory refresh, project-property discovery, append/tail guidance and source-bound security-summary guidance. Main has six skills, public remains two; Cursor combines those eight with separate named remotes.
 
 Source bytes are copied from the already published OpenAI 0.3.4 canonical export at commit `1b916fa1e958f5d1e34a48cbcfef8fe8e2ea881b`. SOURCE-MANIFEST-0.3.4.json records public source paths and exact hashes. Same-profile links are package-local. No proprietary server implementation, account credentials, user documents, private test evidence or machine paths are included. Host-specific manifests, production endpoints, authentication configuration, existing help locales and licensing are preserved.
