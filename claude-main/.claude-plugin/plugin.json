@@ -15,5 +15,6 @@
     "mcp"
   ],
   "mcpServers": "./.mcp.json",
-  "icon": "./assets/icon.svg"
+  "icon": "./assets/icon.svg",
+  "privacyPolicyUrl": "https://app.markdownlogic.com/privacy"
 }
